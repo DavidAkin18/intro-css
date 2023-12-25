@@ -1,0 +1,15 @@
+.odd{
+    background-color: rgb(247, 150, 166);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#blue{
+    color: rgb(101, 101, 239);
+    font-size: 36px;
+}
+.font{
+    font-size: 24px;
+}
+#numb-4{
+    background-color: lightgreen;
+    font-size: 24px;
+}
